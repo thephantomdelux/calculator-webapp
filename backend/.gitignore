@@ -1,2 +1,2 @@
 node_modules
-.env*
+/home/husnain/Desktop/calculator-webapp/backend/.env
