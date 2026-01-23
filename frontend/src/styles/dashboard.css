@@ -13,7 +13,7 @@
 .dashboard-header {
   grid-area: header;
   background-color: #333;
-  color: white;
+  color: rgb(174, 104, 104);
   padding: 10px;
 }
 
